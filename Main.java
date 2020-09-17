@@ -10,5 +10,6 @@ public class Main {
         cat1.incrementAge();
 
         System.out.println(cat1.getAge() > cat2.getAge());
+        System.out.println(cat2);
     }
 }
